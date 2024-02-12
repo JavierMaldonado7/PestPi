@@ -1,0 +1,9 @@
+path: C:/Users/17872/PycharmProjects/cv-attempt/data #dataset path ABSOLUTE PATH to dataset data folder
+train: C:/Users/17872/PycharmProjects/cv-attempt/data  #Point to the one that has images AND labels directory
+val: C:/Users/17872/PycharmProjects/cv-attempt/data
+
+names:
+  0: rat
+  1: iguana
+  2: boa
+  3: mangosta
